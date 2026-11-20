@@ -1,5 +1,5 @@
 {
   "admin_key": "KMT",
-  "enabled": true,
-  "toast_msg": "Access denied! Admin key has been changed."
+  "enabled": false,
+  "toast_msg": "သုံးချင်ရင်Keyလာတောင်းပါဗျ"
 }
